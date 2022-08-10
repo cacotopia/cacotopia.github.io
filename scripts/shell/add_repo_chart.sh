@@ -6,7 +6,7 @@ bash_path=`pwd`
 
 chart_path="$1"
 charts_dir="../../charts/"
-charts_url="http://ygqygq2.github.io/charts"
+charts_url="https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts"
 
 ## 不使用 helm package 将依赖包打进来
 # helm package $chart_path

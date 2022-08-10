@@ -23,7 +23,7 @@ entries:
     sources:
     - https://github.com/ygqygq2/alertmanager2es
     urls:
-    - http://ygqygq2.github.io/charts/alertmanager2es-2.0.0.tgz
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/alertmanager2es-2.0.0.tgz
     version: 2.0.0
   - apiVersion: v1
     appVersion: 0.0.3
@@ -41,7 +41,7 @@ entries:
     sources:
     - https://github.com/ygqygq2/alertmanager2es
     urls:
-    - http://ygqygq2.github.io/charts/alertmanager2es-1.0.0.tgz
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/alertmanager2es-1.0.0.tgz
     version: 1.0.0
   bookstack:
   - apiVersion: v2
@@ -68,7 +68,7 @@ entries:
       name: Chinge Yang
     name: bookstack
     urls:
-    - http://ygqygq2.github.io/charts/bookstack-2.0.0.tgz
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/bookstack-2.0.0.tgz
     version: 2.0.0
   - apiVersion: v1
     appVersion: v2.1
@@ -89,7 +89,7 @@ entries:
       name: Chinge Yang
     name: bookstack
     urls:
-    - http://ygqygq2.github.io/charts/bookstack-1.0.0.tgz
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/bookstack-1.0.0.tgz
     version: 1.0.0
   ceph-exporter:
   - apiVersion: v1
@@ -106,7 +106,7 @@ entries:
       name: Chinge Yang
     name: ceph-exporter
     urls:
-    - http://ygqygq2.github.io/charts/ceph-exporter-1.0.0.tgz
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/ceph-exporter-1.0.0.tgz
     version: 1.0.0
   dejavu:
   - apiVersion: v2
@@ -132,7 +132,7 @@ entries:
     sources:
     - https://hub.docker.com/r/appbaseio/dejavu
     urls:
-    - http://ygqygq2.github.io/charts/dejavu-2.0.0.tgz
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/dejavu-2.0.0.tgz
     version: 2.0.0
   - apiVersion: v1
     appVersion: 3.4.0
@@ -151,7 +151,7 @@ entries:
     sources:
     - https://hub.docker.com/r/appbaseio/dejavu
     urls:
-    - http://ygqygq2.github.io/charts/dejavu-1.0.0.tgz
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/dejavu-1.0.0.tgz
     version: 1.0.0
   elastichd:
   - apiVersion: v2
@@ -177,7 +177,7 @@ entries:
     sources:
     - https://github.com/360EntSecGroup-Skylar/ElasticHD
     urls:
-    - http://ygqygq2.github.io/charts/elastichd-2.0.0.tgz
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/elastichd-2.0.0.tgz
     version: 2.0.0
   - apiVersion: v1
     appVersion: "1.4"
@@ -196,7 +196,7 @@ entries:
     sources:
     - https://github.com/360EntSecGroup-Skylar/ElasticHD
     urls:
-    - http://ygqygq2.github.io/charts/elastichd-1.0.0.tgz
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/elastichd-1.0.0.tgz
     version: 1.0.0
   elasticsearch:
   - apiVersion: v1
@@ -229,7 +229,7 @@ entries:
     - https://github.com/clockworksoul/helm-elasticsearch
     - https://github.com/pires/kubernetes-elasticsearch-cluster
     urls:
-    - http://ygqygq2.github.io/charts/elasticsearch-1.30.0.tgz
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/elasticsearch-1.30.0.tgz
     version: 1.30.0
   elasticsearch2:
   - apiVersion: v1
@@ -245,7 +245,7 @@ entries:
       name: Chinge Yang
     name: elasticsearch2
     urls:
-    - http://ygqygq2.github.io/charts/elasticsearch2-1.0.0.tgz
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/elasticsearch2-1.0.0.tgz
     version: 1.0.0
   elasticsearch5:
   - apiVersion: v1
@@ -264,7 +264,7 @@ entries:
     sources:
     - https://github.com/bitnami/bitnami-docker-elasticsearch
     urls:
-    - http://ygqygq2.github.io/charts/elasticsearch5-6.2.2.tgz
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/elasticsearch5-6.2.2.tgz
     version: 6.2.2
   eureka:
   - apiVersion: v2
@@ -291,7 +291,7 @@ entries:
     - https://github.com/Netflix/eureka
     - https://github.com/ygqygq2/eureka-server
     urls:
-    - http://ygqygq2.github.io/charts/eureka-2.0.0.tgz
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/eureka-2.0.0.tgz
     version: 2.0.0
   - apiVersion: v1
     appVersion: 1.0.0
@@ -311,7 +311,7 @@ entries:
     - https://github.com/Netflix/eureka
     - https://github.com/ygqygq2/eureka-server
     urls:
-    - http://ygqygq2.github.io/charts/eureka-1.0.0.tgz
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/eureka-1.0.0.tgz
     version: 1.0.0
   fastdfs-nginx:
   - apiVersion: v2
@@ -333,7 +333,7 @@ entries:
       name: Chinge Yang
     name: fastdfs-nginx
     urls:
-    - http://ygqygq2.github.io/charts/fastdfs-nginx-2.0.0.tgz
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/fastdfs-nginx-2.0.0.tgz
     version: 2.0.0
   - apiVersion: v1
     appVersion: V5.11
@@ -348,7 +348,7 @@ entries:
       name: Chinge Yang
     name: fastdfs-nginx
     urls:
-    - http://ygqygq2.github.io/charts/fastdfs-nginx-1.0.2.tgz
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/fastdfs-nginx-1.0.2.tgz
     version: 1.0.2
   gohttpserver:
   - apiVersion: v2
@@ -370,7 +370,7 @@ entries:
       name: Chinge Yang
     name: gohttpserver
     urls:
-    - http://ygqygq2.github.io/charts/gohttpserver-2.0.0.tgz
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/gohttpserver-2.0.0.tgz
     version: 2.0.0
   - apiVersion: v1
     appVersion: "1.0"
@@ -385,7 +385,7 @@ entries:
       name: Chinge Yang
     name: gohttpserver
     urls:
-    - http://ygqygq2.github.io/charts/gohttpserver-0.1.0.tgz
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/gohttpserver-0.1.0.tgz
     version: 0.1.0
   lam:
   - apiVersion: v2
@@ -409,7 +409,7 @@ entries:
       name: Chinge Yang
     name: lam
     urls:
-    - http://ygqygq2.github.io/charts/lam-2.0.0.tgz
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/lam-2.0.0.tgz
     version: 2.0.0
   - apiVersion: v1
     appVersion: "6.9"
@@ -426,7 +426,7 @@ entries:
       name: Chinge Yang
     name: lam
     urls:
-    - http://ygqygq2.github.io/charts/lam-1.0.2.tgz
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/lam-1.0.2.tgz
     version: 1.0.2
   - apiVersion: v1
     appVersion: "6.6"
@@ -442,7 +442,7 @@ entries:
       name: Chinge Yang
     name: lam
     urls:
-    - http://ygqygq2.github.io/charts/lam-1.0.0.tgz
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/lam-1.0.0.tgz
     version: 1.0.0
   mdb:
   - apiVersion: v1
@@ -458,7 +458,7 @@ entries:
       name: Chinge Yang
     name: mdb
     urls:
-    - http://ygqygq2.github.io/charts/mdb-4.0.0.tgz
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/mdb-4.0.0.tgz
     version: 4.0.0
   - apiVersion: v1
     appVersion: 1.0.0
@@ -474,7 +474,7 @@ entries:
       name: Chinge Yang
     name: mdb
     urls:
-    - http://ygqygq2.github.io/charts/mdb-3.0.1.tgz
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/mdb-3.0.1.tgz
     version: 3.0.1
   mindoc:
   - apiVersion: v2
@@ -501,7 +501,7 @@ entries:
       name: Chinge Yang
     name: mindoc
     urls:
-    - http://ygqygq2.github.io/charts/mindoc-2.0.0.tgz
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/mindoc-2.0.0.tgz
     version: 2.0.0
   - apiVersion: v1
     appVersion: v2.0-beta.2
@@ -522,7 +522,7 @@ entries:
       name: Chinge Yang
     name: mindoc
     urls:
-    - http://ygqygq2.github.io/charts/mindoc-1.0.0.tgz
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/mindoc-1.0.0.tgz
     version: 1.0.0
   mod-chart:
   - apiVersion: v2
@@ -551,7 +551,7 @@ entries:
     sources:
     - https://github.com/bitnami/bitnami-docker-nginx
     urls:
-    - http://ygqygq2.github.io/charts/mod-chart-3.0.0.tgz
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/mod-chart-3.0.0.tgz
     version: 3.0.0
   - apiVersion: v1
     appVersion: 1.14.2
@@ -573,7 +573,7 @@ entries:
     sources:
     - https://github.com/bitnami/bitnami-docker-nginx
     urls:
-    - http://ygqygq2.github.io/charts/mod-chart-2.1.2.tgz
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/mod-chart-2.1.2.tgz
     version: 2.1.2
   - apiVersion: v1
     appVersion: 1.14.2
@@ -595,7 +595,7 @@ entries:
     sources:
     - https://github.com/bitnami/bitnami-docker-nginx
     urls:
-    - http://ygqygq2.github.io/charts/mod-chart-1.0.2.tgz
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/mod-chart-1.0.2.tgz
     version: 1.0.2
   - apiVersion: v1
     appVersion: 1.14.2
@@ -617,7 +617,7 @@ entries:
     sources:
     - https://github.com/bitnami/bitnami-docker-nginx
     urls:
-    - http://ygqygq2.github.io/charts/mod-chart-1.0.1.tgz
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/mod-chart-1.0.1.tgz
     version: 1.0.1
   mongoclient:
   - apiVersion: v2
@@ -643,7 +643,7 @@ entries:
     sources:
     - https://github.com/nosqlclient/nosqlclient/
     urls:
-    - http://ygqygq2.github.io/charts/mongoclient-2.0.0.tgz
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/mongoclient-2.0.0.tgz
     version: 2.0.0
   - apiVersion: v1
     appVersion: 2.2.0
@@ -662,7 +662,7 @@ entries:
     sources:
     - https://github.com/nosqlclient/nosqlclient/
     urls:
-    - http://ygqygq2.github.io/charts/mongoclient-1.0.1.tgz
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/mongoclient-1.0.1.tgz
     version: 1.0.1
   mysql:
   - apiVersion: v2
@@ -693,7 +693,7 @@ entries:
     sources:
     - https://github.com/bitnami/bitnami-docker-mysql
     urls:
-    - http://ygqygq2.github.io/charts/mysql-4.5.3.tgz
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/mysql-4.5.3.tgz
     version: 4.5.3
   mysql-servicemonitor:
   - apiVersion: v1
@@ -706,11 +706,12 @@ entries:
       name: Chinge Yang
     name: mysql-servicemonitor
     urls:
-    - http://ygqygq2.github.io/charts/mysql-servicemonitor-1.0.0.tgz
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/mysql-servicemonitor-1.0.0.tgz
     version: 1.0.0
   nacos:
   - apiVersion: v2
     appVersion: 2.0.4
+    version: 2.0.1
     created: "2022-04-01T23:31:11.030592317+08:00"
     dependencies:
     - name: common
@@ -738,8 +739,7 @@ entries:
     sources:
     - https://github.com/alibaba/nacos
     urls:
-    - http://ygqygq2.github.io/charts/nacos-2.0.1.tgz
-    version: 2.0.1
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/nacos-2.0.1.tgz
   - apiVersion: v2
     appVersion: 2.0.4
     created: "2022-04-01T23:31:11.019056271+08:00"
@@ -769,7 +769,7 @@ entries:
     sources:
     - https://github.com/alibaba/nacos
     urls:
-    - http://ygqygq2.github.io/charts/nacos-2.0.0.tgz
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/nacos-2.0.0.tgz
     version: 2.0.0
   - apiVersion: v1
     appVersion: 1.1.4
@@ -795,7 +795,7 @@ entries:
     sources:
     - https://nacos.io
     urls:
-    - http://ygqygq2.github.io/charts/nacos-1.2.0.tgz
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/nacos-1.2.0.tgz
     version: 1.2.0
   - apiVersion: v1
     appVersion: 1.1.4
@@ -821,7 +821,7 @@ entries:
     sources:
     - https://nacos.io
     urls:
-    - http://ygqygq2.github.io/charts/nacos-1.1.4.tgz
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/nacos-1.1.4.tgz
     version: 1.1.4
   - apiVersion: v1
     appVersion: 1.1.0
@@ -847,7 +847,7 @@ entries:
     sources:
     - https://nacos.io
     urls:
-    - http://ygqygq2.github.io/charts/nacos-1.1.0.tgz
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/nacos-1.1.0.tgz
     version: 1.1.0
   - apiVersion: v1
     appVersion: 1.0.1
@@ -873,7 +873,7 @@ entries:
     sources:
     - https://nacos.io
     urls:
-    - http://ygqygq2.github.io/charts/nacos-1.0.1.tgz
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/nacos-1.0.1.tgz
     version: 1.0.1
   - apiVersion: v1
     appVersion: 1.0.0
@@ -899,7 +899,7 @@ entries:
     sources:
     - https://nacos.io
     urls:
-    - http://ygqygq2.github.io/charts/nacos-1.0.0.tgz
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/nacos-1.0.0.tgz
     version: 1.0.0
   nginx-php:
   - apiVersion: v2
@@ -928,7 +928,7 @@ entries:
     sources:
     - https://github.com/1and1internet/ubuntu-16-nginx-php-7.0
     urls:
-    - http://ygqygq2.github.io/charts/nginx-php-2.0.0.tgz
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/nginx-php-2.0.0.tgz
     version: 2.0.0
   - apiVersion: v1
     appVersion: "1.0"
@@ -943,7 +943,7 @@ entries:
       name: Chinge Yang
     name: nginx-php
     urls:
-    - http://ygqygq2.github.io/charts/nginx-php-1.1.0.tgz
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/nginx-php-1.1.0.tgz
     version: 1.1.0
   - apiVersion: v1
     appVersion: nginx-1.10.3_php-7.0
@@ -965,7 +965,7 @@ entries:
     sources:
     - https://github.com/1and1internet/ubuntu-16-nginx-php-7.0
     urls:
-    - http://ygqygq2.github.io/charts/nginx-php-1.0.1.tgz
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/nginx-php-1.0.1.tgz
     version: 1.0.1
   nginx-php-sftp:
   - apiVersion: v2
@@ -997,7 +997,7 @@ entries:
     - https://github.com/1and1internet/ubuntu-16-nginx-php-7.0
     - https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol
     urls:
-    - http://ygqygq2.github.io/charts/nginx-php-sftp-2.0.0.tgz
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/nginx-php-sftp-2.0.0.tgz
     version: 2.0.0
   - apiVersion: v1
     appVersion: nginx-1.10.3_php-7.0
@@ -1022,7 +1022,7 @@ entries:
     - https://github.com/1and1internet/ubuntu-16-nginx-php-7.0
     - https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol
     urls:
-    - http://ygqygq2.github.io/charts/nginx-php-sftp-1.0.1.tgz
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/nginx-php-sftp-1.0.1.tgz
     version: 1.0.1
   - apiVersion: v1
     appVersion: nginx-1.10.3_php-7.0
@@ -1047,7 +1047,7 @@ entries:
     - https://github.com/1and1internet/ubuntu-16-nginx-php-7.0
     - https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol
     urls:
-    - http://ygqygq2.github.io/charts/nginx-php-sftp-1.0.0.tgz
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/nginx-php-sftp-1.0.0.tgz
     version: 1.0.0
   nginx-sftp:
   - apiVersion: v2
@@ -1077,7 +1077,7 @@ entries:
     sources:
     - https://github.com/bitnami/bitnami-docker-nginx
     urls:
-    - http://ygqygq2.github.io/charts/nginx-sftp-2.0.0.tgz
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/nginx-sftp-2.0.0.tgz
     version: 2.0.0
   - apiVersion: v1
     appVersion: 1.14.2
@@ -1099,7 +1099,7 @@ entries:
     sources:
     - https://github.com/bitnami/bitnami-docker-nginx
     urls:
-    - http://ygqygq2.github.io/charts/nginx-sftp-1.1.0.tgz
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/nginx-sftp-1.1.0.tgz
     version: 1.1.0
   - apiVersion: v1
     appVersion: 1.14.2
@@ -1122,7 +1122,7 @@ entries:
     sources:
     - https://github.com/bitnami/bitnami-docker-nginx
     urls:
-    - http://ygqygq2.github.io/charts/nginx-sftp-1.0.2.tgz
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/nginx-sftp-1.0.2.tgz
     version: 1.0.2
   - apiVersion: v1
     appVersion: 1.14.2
@@ -1145,7 +1145,7 @@ entries:
     sources:
     - https://github.com/bitnami/bitnami-docker-nginx
     urls:
-    - http://ygqygq2.github.io/charts/nginx-sftp-1.0.1.tgz
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/nginx-sftp-1.0.1.tgz
     version: 1.0.1
   node-exporter-servicemonitor:
   - apiVersion: v1
@@ -1158,7 +1158,7 @@ entries:
       name: Chinge Yang
     name: node-exporter-servicemonitor
     urls:
-    - http://ygqygq2.github.io/charts/node-exporter-servicemonitor-1.0.0.tgz
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/node-exporter-servicemonitor-1.0.0.tgz
     version: 1.0.0
   perfino:
   - apiVersion: v2
@@ -1182,7 +1182,7 @@ entries:
       name: Chinge Yang
     name: perfino
     urls:
-    - http://ygqygq2.github.io/charts/perfino-2.0.0.tgz
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/perfino-2.0.0.tgz
     version: 2.0.0
   self-service-password:
   - apiVersion: v2
@@ -1209,7 +1209,7 @@ entries:
     - https://github.com/ltb-project/self-service-password
     - https://github.com/tiredofit/docker-self-service-password
     urls:
-    - http://ygqygq2.github.io/charts/self-service-password-2.0.0.tgz
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/self-service-password-2.0.0.tgz
     version: 2.0.0
   - apiVersion: v1
     appVersion: "1.3"
@@ -1229,7 +1229,7 @@ entries:
     - https://github.com/ltb-project/self-service-password
     - https://github.com/tiredofit/docker-self-service-password
     urls:
-    - http://ygqygq2.github.io/charts/self-service-password-1.0.0.tgz
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/self-service-password-1.0.0.tgz
     version: 1.0.0
   sftp:
   - apiVersion: v2
@@ -1254,7 +1254,7 @@ entries:
     sources:
     - https://github.com/ygqygq2/sftp/
     urls:
-    - http://ygqygq2.github.io/charts/sftp-2.0.0.tgz
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/sftp-2.0.0.tgz
     version: 2.0.0
   - apiVersion: v1
     appVersion: "1.0"
@@ -1270,7 +1270,7 @@ entries:
       name: Chinge Yang
     name: sftp
     urls:
-    - http://ygqygq2.github.io/charts/sftp-1.0.0.tgz
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/sftp-1.0.0.tgz
     version: 1.0.0
   tengine-sftp:
   - apiVersion: v2
@@ -1302,7 +1302,7 @@ entries:
     - https://github.com/alibaba/tengine
     - https://github.com/ygqygq2/tengine-docker
     urls:
-    - http://ygqygq2.github.io/charts/tengine-sftp-2.0.0.tgz
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/tengine-sftp-2.0.0.tgz
     version: 2.0.0
   - apiVersion: v1
     appVersion: 2.3.2
@@ -1327,7 +1327,7 @@ entries:
     - https://github.com/alibaba/tengine
     - https://github.com/ygqygq2/tengine-docker
     urls:
-    - http://ygqygq2.github.io/charts/tengine-sftp-1.0.0.tgz
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/tengine-sftp-1.0.0.tgz
     version: 1.0.0
   utcook:
   - apiVersion: v1
@@ -1345,7 +1345,7 @@ entries:
       name: Chinge Yang
     name: utcook
     urls:
-    - http://ygqygq2.github.io/charts/utcook-2.1.4.tgz
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/utcook-2.1.4.tgz
     version: 2.1.4
   - apiVersion: v1
     appVersion: 1.0.0
@@ -1362,7 +1362,7 @@ entries:
       name: Chinge Yang
     name: utcook
     urls:
-    - http://ygqygq2.github.io/charts/utcook-2.1.3.tgz
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/utcook-2.1.3.tgz
     version: 2.1.3
   - apiVersion: v1
     appVersion: 1.0.0
@@ -1379,7 +1379,7 @@ entries:
       name: Chinge Yang
     name: utcook
     urls:
-    - http://ygqygq2.github.io/charts/utcook-2.1.2.tgz
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/utcook-2.1.2.tgz
     version: 2.1.2
   - apiVersion: v1
     appVersion: 1.0.0
@@ -1396,7 +1396,7 @@ entries:
       name: Chinge Yang
     name: utcook
     urls:
-    - http://ygqygq2.github.io/charts/utcook-2.1.1.tgz
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/utcook-2.1.1.tgz
     version: 2.1.1
   - apiVersion: v1
     appVersion: 1.0.0
@@ -1412,7 +1412,7 @@ entries:
       name: Chinge Yang
     name: utcook
     urls:
-    - http://ygqygq2.github.io/charts/utcook-2.1.0.tgz
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/utcook-2.1.0.tgz
     version: 2.1.0
   - apiVersion: v1
     appVersion: 1.1.8
@@ -1428,7 +1428,7 @@ entries:
       name: Chinge Yang
     name: utcook
     urls:
-    - http://ygqygq2.github.io/charts/utcook-2.0.0.tgz
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/utcook-2.0.0.tgz
     version: 2.0.0
   - apiVersion: v1
     appVersion: "1.0"
@@ -1443,7 +1443,7 @@ entries:
       name: Chinge Yang
     name: utcook
     urls:
-    - http://ygqygq2.github.io/charts/utcook-1.1.0.tgz
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/utcook-1.1.0.tgz
     version: 1.1.0
   yapi:
   - apiVersion: v2
@@ -1472,7 +1472,7 @@ entries:
       name: Chinge Yang
     name: yapi
     urls:
-    - http://ygqygq2.github.io/charts/yapi-2.0.0.tgz
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/yapi-2.0.0.tgz
     version: 2.0.0
   - apiVersion: v1
     appVersion: v1.7.2
@@ -1495,7 +1495,7 @@ entries:
       name: Chinge Yang
     name: yapi
     urls:
-    - http://ygqygq2.github.io/charts/yapi-1.0.0.tgz
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/yapi-1.0.0.tgz
     version: 1.0.0
   zipkin:
   - apiVersion: v2
@@ -1523,7 +1523,7 @@ entries:
       name: Chinge Yang
     name: zipkin
     urls:
-    - http://ygqygq2.github.io/charts/zipkin-2.0.0.tgz
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/zipkin-2.0.0.tgz
     version: 2.0.0
   - apiVersion: v1
     appVersion: "2"
@@ -1540,6 +1540,6 @@ entries:
       name: Chinge Yang
     name: zipkin
     urls:
-    - http://ygqygq2.github.io/charts/zipkin-1.0.1.tgz
+    - https://cacotopia.oss-cn-hangzhou.aliyuncs.com/charts/zipkin-1.0.1.tgz
     version: 1.0.1
 generated: "2022-04-01T23:31:10.764595376+08:00"
